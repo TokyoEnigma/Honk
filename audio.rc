@@ -1,0 +1,3 @@
+ #include "resource.h"
+ IDR_ICON ICON "icon.ico"
+ IDR_WAVE1 WAVE "audio.wav"
